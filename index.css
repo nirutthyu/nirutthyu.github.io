@@ -1,0 +1,385 @@
+
+body{
+    font-family:monospace;
+    background:url(https://i.pinimg.com/564x/1a/43/f3/1a43f32ee04a53ce50cba5b9cdd68cd8.jpg) repeat ;
+    background-size:cover;
+    width:auto;
+    margin:0;
+  
+    
+}
+.header{
+    background-color:#252424;
+    width:100%;
+    height:auto;
+    color:white;
+    position:absolute;
+    top:0;
+    left:0;
+    padding:10px;
+    box-sizing:border-box;
+
+}
+/* .headerButton {
+    display:inline-block;
+    position:relative;
+    left:65%;   
+} */
+.container{
+    position: relative;
+    left:25%;
+    top:10px;
+    height: auto;
+    width:50%;
+    background-color:black;
+    padding:5px;
+    box-sizing: border-box;
+    border-radius:5px;
+  
+}
+.html,.css,.js,.c{
+    height:auto;
+    width:auto;
+    background-color:rgb(32, 31, 31);
+    margin-bottom:10px;
+    border-radius:5px;
+    padding:5px;
+    color: aliceblue;
+ 
+  
+}
+.bar{
+    position:relative;
+    width:auto;
+    height:20px;
+    background-color: rgb(247, 247, 246);
+    border-radius:5px;
+    box-sizing: border-box;
+    padding:2px;
+}
+.colorhtml{
+  
+    height:15px;
+    width:90%;
+    box-sizing: border-box;
+    border-radius:5px;
+    background-color:cadetblue;
+}
+.colorcss{
+  
+    height:15px;
+    width:85%;
+    box-sizing: border-box;
+    border-radius:5px;
+    background-color:rgb(186, 119, 178);
+}
+.colorjs{
+  
+    height:15px;
+    width:25%;
+    box-sizing: border-box;
+    border-radius:5px;
+    background-color:rgb(133, 101, 168);
+}
+.colorc{
+  
+    height:15px;
+    width:30%;
+    box-sizing: border-box;
+    border-radius:5px;
+    background-color:rgb(201, 107, 115);
+}
+ 
+ 
+
+.float{
+    background-color:transparent;
+    height:35px;
+    width:175px;
+    margin-top:20px;
+    position:relative;
+    bottom:0;
+    left:20%;
+    right:20%;
+    border-radius:5px;
+}
+.floatButton {
+    position:relative;
+    bottom:0;
+    left:20%;
+    right:20%;
+    background-color:transparent; 
+    color: aliceblue;
+    border:transparent;
+}
+.review{
+    font-family:monospace;
+    font-size:18px;
+  
+}
+.sub{
+    padding:20px;
+    box-sizing:border-box;
+    height:auto;
+    width:auto;
+    background-color:rgba(240, 248, 255, 0.376) ;
+    flex:2;
+    margin-left:20px;
+    margin-right:20px;
+    border-radius:5px;
+ 
+}
+.sub1{
+    padding:20px;
+    box-sizing:border-box;
+    height:auto;
+    width:auto;
+    background-color:rgba(240, 248, 255, 0.376) ;
+    flex:2;
+    margin-top:10px;
+    margin-left:20px;
+    margin-right:20px;
+    border-radius:5px;
+  
+ 
+}
+
+.book{
+    height:250px;
+    width:250px;
+    border-radius:10px;
+    box-shadow:5px 5px 10px;
+    
+}
+.back{
+    background-color: transparent;
+    position:relative;
+    left:45%;
+    margin-top:20px;
+}
+
+.bookreview{
+    border:2px solid black;
+    font-family:monospace;
+    font-size:15px;
+    width:auto;
+    height:auto;
+    border-radius:5px;
+    padding:3px;
+    margin-top:10px;
+    background-color: rgba(240, 248, 255, 0.688);
+    box-shadow:10px 10px 20px;
+
+}
+.info{
+    justify-content: space-around;
+    border-radius:5px;
+}
+.about{
+    border:2px solid black;
+    width:50%;
+    height:50%;
+    position:relative;
+    top:20%;
+    left:25%;
+    box-sizing: border-box;
+    border-radius:5px;
+}
+.main{
+    display:flex;
+    flex-direction: row;
+    background-color:transparent;
+    border:2px solid black;
+    border-radius:5px;
+    width:100%;
+    height:auto;
+    position:relative;
+    top:20px;;
+    margin-top:130px;
+    padding:10px;
+    box-sizing:border-box;
+   
+    
+}
+.main1{
+    display:flex;
+    flex-direction:column;
+    background-color:transparent;
+    border:2px solid black;
+    border-radius:5px;
+    width:100%;
+    height:auto;
+    position:relative;
+    top:20px;;
+    margin-top:130px;
+    padding:10px;
+    box-sizing:border-box;
+   
+    
+}
+
+.quote{
+    border:2px dotted black;
+    background-color: aliceblue;
+
+    height:auto;
+    width:50%;
+    margin-top:20px;
+    position:relative;
+    left:25%;
+}
+  
+.profile{
+    
+    height:250px;
+    width:250px;
+    margin-top:20px;
+    border-radius: 15px;
+   
+   
+}
+
+footer{
+    background-color: black;
+    height:auto;
+    width:100%;
+    position:sticky;
+    bottom:0;
+    margin-top:auto;
+    display:flex;
+}
+.icon{
+   
+    flex:1;
+    padding:5px;
+    box-sizing: border-box;
+    margin-left:85%;
+}
+.icondiv{
+    display:inline;
+    padding:10px;
+  
+}
+
+.extra{
+    color:aliceblue;
+}
+
+.body{
+
+    position:absolute;
+    top: 85px;
+    left:0;
+    width:100%;
+    height:100%;
+    display:inline-block;
+}
+
+
+span{
+    position:relative;
+    left:1%;
+    top:2%;
+}
+
+button{
+    background:#363636;
+    height:35px;
+    width:auto;
+    font-size:12px;
+    font-family:monospace;
+    color:white;
+    position:relative;
+    top:0;
+    left:75%;
+    border-radius:5px;
+}
+.lang{
+    color:aliceblue;
+    font-family:monospace;
+    font-size:18px;
+}
+.sub:hover.bounce{
+    animation:bounce 3s;
+    
+}
+
+button:hover.slideup{
+    /* animation:slideup 3s ease; */
+    background-color:#6c6e6f;
+    cursor:pointer;
+}
+.html:hover.slideup{
+    animation:slideup 3s ease;
+    background-color:#363636;
+    cursor:pointer;
+
+}
+.css:hover.slideup{
+    animation:slideup 3s ease;
+    background-color:#363636;
+    cursor:pointer;
+
+}
+.js:hover.slideup{
+    animation:slideup 3s ease;
+    background-color:#363636;
+    cursor:pointer;
+
+}
+.c:hover.slideup{
+    animation:slideup 3s ease;
+    background-color:#363636;
+    cursor:pointer;
+
+}
+.slideleft{
+    animation: slideleft 3s ;
+    animation-delay:3px;
+}
+.flip {
+position:relative;
+display:inline-block;
+animation: flip 2s infinite;
+text-transform:uppercase;
+font-size:40px;
+
+animation-delay: calc(.2s * var(--i));
+
+}
+@keyframes flip{
+    0%,80%{
+    transform: rotateY(360deg)
+    }
+    }
+@keyframes slideleft{
+    0%{
+        transform:translateX(-500px);
+    }
+    50%,100%{
+        transform:translateX(0px)
+    }
+
+}
+@keyframes slideup{
+    0%{
+        transform:translateY(0px);
+
+    }
+    20%{
+        transform:translateY(-10px);
+    }
+}
+@keyframes bounce{
+    0%, 100% {
+        transform: translateX(0);
+    }
+	10%{
+        transform: translateX(-10px);
+    }
+	30%  {
+        transform: translateX(10px);
+    }
+}
+
+ 

@@ -60,7 +60,7 @@ body{
 .colorhtml{
   
     height:15px;
-    width:90%;
+    width:80%;
     box-sizing: border-box;
     border-radius:5px;
     background-color:cadetblue;
@@ -68,7 +68,7 @@ body{
 .colorcss{
   
     height:15px;
-    width:85%;
+    width:80%;
     box-sizing: border-box;
     border-radius:5px;
     background-color:rgb(186, 119, 178);
